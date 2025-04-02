@@ -1,0 +1,17 @@
+[Learn]
+- freecodecamp.org
+- sololearn.com
+- roadmap.sh
+
+[Tools]
+- Termux
+- GitHub Mobile
+- Replit
+
+[Earn]
+- UserTesting.com ($10/video)
+- Prolific Surveys
+- Fiverr: “I will summarize YouTube videos using AI”
+
+[Hustle Seed]
+Create a cheat sheet of everything you learn and sell it to others just 1 week behind you.
